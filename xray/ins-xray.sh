@@ -497,14 +497,14 @@ cd /usr/bin/
 wget -O add-ws "https://raw.githubusercontent.com/PAORTAL/TANscript/main/xray/add-ws.sh" && chmod +x add-ws
 wget -O trialvmess "https://raw.githubusercontent.com/PAORTAL/TANscript/main/xray/trialvmess.sh" && chmod +x trialvmess
 wget -O renew-ws "https://raw.githubusercontent.com/PAORTAL/TANscript/main/xray/renew-ws.sh" && chmod +x renew-ws
-wget -O del-ws "https://raw.githubusercontent.com/PAORTAL/TANscript/main/xray/del-ws.sh" && chmod +x del-ws
+wget -O del-ws "https://raw.githubusercontent.com/netdee/script-vpn/main/xray/del-ws.sh" && chmod +x del-ws
 wget -O cek-ws "https://raw.githubusercontent.com/PAORTAL/TANscript/main/xray/cek-ws.sh" && chmod +x cek-ws
 
 # vless
 wget -O add-vless "https://raw.githubusercontent.com/PAORTAL/TANscript/main/xray/add-vless.sh" && chmod +x add-vless
 wget -O trialvless "https://raw.githubusercontent.com/PAORTAL/TANscript/main/xray/trialvless.sh" && chmod +x trialvless
 wget -O renew-vless "https://raw.githubusercontent.com/PAORTAL/TANscript/main/xray/renew-vless.sh" && chmod +x renew-vless
-wget -O del-vless "https://raw.githubusercontent.com/PAORTAL/TANscript/main/xray/del-vless.sh" && chmod +x del-vless
+wget -O del-vless "https://raw.githubusercontent.com/netdee/script-vpn/main/xray/del-vless.sh" && chmod +x del-vless
 wget -O cek-vless "https://raw.githubusercontent.com/PAORTAL/TANscript/main/xray/cek-vless.sh" && chmod +x cek-vless
 
 # trojan
